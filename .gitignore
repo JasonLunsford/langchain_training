@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Env
+.env*
+
+# Editor related
+.DS_Store
+.vscode
